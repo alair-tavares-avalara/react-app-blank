@@ -1,0 +1,30 @@
+{
+  "name": "kendo-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-buttons-react-wrapper": "2017.3.1-beta.2",
+    "@progress/kendo-data-query": "^1.0.6",
+    "@progress/kendo-dateinputs-react-wrapper": "2017.3.1-beta.2",
+    "@progress/kendo-inputs-react-wrapper": "2017.3.1-beta.2",
+    "@progress/kendo-layout-react-wrapper": "2017.3.1-beta.2",
+    "@progress/kendo-popups-react-wrapper": "2017.3.1-beta.2",
+    "@progress/kendo-theme-default": "^2.37.0",
+    "@progress/kendo-ui": "~2017.2.504",
+    "@progress/kendo-window-react-wrapper": "2017.3.1-beta.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "react-addons-test-utils": "^15.6.2"
+  }
+}
